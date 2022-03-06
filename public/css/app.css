@@ -1,0 +1,54 @@
+.topnav {
+    background-color: #EBEBEB;
+}
+
+.T_bor_orange {
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    border-color: #3498DB;
+    color: #F57927;
+    width: 30%;
+    font-size: 2vW;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+  
+}
+.Ts_bor_orange {
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    border-color: #3498DB;
+    color: #F57927;
+    width: 100%;
+    font-size: 1vW;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.T_black {
+    color: black;
+    font-size: 1vW;
+    overflow: auto;
+    text-transform: uppercase;
+}
+
+.Ts_Orange {
+    color: #F57927;
+    font-size: 2vW;
+    font-weight: 700;
+    width: 30%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.h_links {
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.h_left {
+    text-align-last: left;
+    overflow: hidden;
+}
